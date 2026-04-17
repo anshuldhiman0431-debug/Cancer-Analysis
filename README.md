@@ -27,7 +27,7 @@ The dataset includes the following features:
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 - **Python**  
 - **Pandas** (Data manipulation)  
 - **NumPy** (Numerical operations)  
@@ -37,7 +37,7 @@ The dataset includes the following features:
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 ### 1. Data Loading
 - Imported dataset using Pandas  
@@ -62,7 +62,7 @@ The dataset includes the following features:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - Patient age ranges from **20 to 89 years**, with an average around **54 years**  
 - Cancer cases are distributed across multiple types and stages  
 - Gender distribution is relatively balanced  
